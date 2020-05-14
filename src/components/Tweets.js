@@ -1,6 +1,7 @@
 import React from 'react';
 import './Tweets.css'
 
+// PLACEHOLDER - REPLACE - 
 const TwitterLogo = 'https://api.adorable.io/avatars/190/abott@adorable.png'
 
 class Tweets extends React.Component {
